@@ -146,7 +146,7 @@ description: 基于逃逸理论框架评估 AI 创业项目的生存力与投资
 判断行业类型后（模式 A 或窄赛道的模式 C），**必须读取对应的模块文件**：
 
 ```
-C:\Users\User\.claude\skills\escape-theory\modules\<模块名>.md
+modules/<模块名>.md
 ```
 
 ---
